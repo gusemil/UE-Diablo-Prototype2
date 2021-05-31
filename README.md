@@ -8,3 +8,5 @@ Latest build: 31.05.2021
 
 Link to game and source code download plus gameplay footage:
 https://champion-eternal.itch.io/der-teufel-2-unreal-engine-diabloclone
+
+3d models and animations from Mixamo. 2D art from various sources provided by opengameart.org
