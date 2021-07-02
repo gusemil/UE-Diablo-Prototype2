@@ -4,7 +4,7 @@ Unreal Engine 4 gameplay mechanic prototype for Gameplay Programming course.
 
 A work in progress.
 
-Latest build: 13.06.2021
+Latest build: 02.07.2021
 
 Link to game and source code download plus gameplay footage:
 https://champion-eternal.itch.io/der-teufel-2-unreal-engine-diabloclone
