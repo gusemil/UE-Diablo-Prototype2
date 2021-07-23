@@ -2,7 +2,7 @@
  
 Unreal Engine 4 gameplay mechanic prototype for Gameplay Programming course.
 
-A work in progress.
+Unreal version: 4.26.1
 
 Latest build: 02.07.2021
 
